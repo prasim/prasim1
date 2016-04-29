@@ -1,0 +1,25 @@
+.search-box {
+    position: relative;
+    width: 180px;
+}
+.search-box input {
+    padding: 5px;
+    border-radius: 4px;
+    border: 1px solid;
+    width: 100%;
+}
+.autosuggestions {
+    width: inherit;
+    position: absolute;
+    top: 100%;
+    border: 1px solid;
+    max-height: 200px;
+    overflow: scroll;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.autosuggestions div {
+    font-size: smaller;
+    border-bottom: 1px solid;
+    padding: 4px;
+}
