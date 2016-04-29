@@ -23,3 +23,6 @@
     border-bottom: 1px solid;
     padding: 4px;
 }
+.autosuggestions div:hover {
+    background-color: yellow;
+}
