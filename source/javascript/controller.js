@@ -13,10 +13,9 @@ app.controller('myCtrl', function($scope,$http) {
         } else {
             $scope.closeSuggestions = true;
         }
-    }
-
+    };
     $scope.selectMovie = function(name) {
         $scope.searchText = name;
         $scope.closeSuggestions = true;
-    }
+    };
 });

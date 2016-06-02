@@ -1,0 +1,29 @@
+{
+  "name": "prasimjain",
+  "version": "1.0.0",
+  "description": "My Project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prasim/prasim1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prasim/prasim1/issues"
+  },
+  "homepage": "https://github.com/prasim/prasim1#readme",
+  "devDependencies": {
+    "browser-sync": "^2.12.10",
+    "gulp": "^3.9.1",
+    "gulp-jshint": "^2.0.1",
+    "gulp-rsync": "0.0.6",
+    "gulp-sass": "^2.3.1",
+    "gulp-util": "^3.0.7",
+    "jshint": "^2.9.2",
+    "jshint-stylish": "^2.2.0"
+  }
+}
